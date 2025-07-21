@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+- **Ph.D. Industrial Engineering**, University of Arizona — *expected 2026*  
+- **M.S. Industrial Engineering**, University of Arizona — *2023*  
+- **B.S. Applied Mathematics**, University of Tehran — *2016*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience  
+### Research Assistant — University of Arizona, *Fall 2021 – present*  
+*Supervisor: Dr. Afrooz Jalilzadeh*  
+Exploring mathematical optimization for real‑world problems; advancing game‑theory strategies and machine‑learning algorithms.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Optimization Scientist — University of Arizona, *Fall 2024*  
+*Supervisor: Dr. Afrooz Jalilzadeh*  
+Developed systems‑engineering and optimization methods for trustworthy AI in safety‑critical defense settings.
+
+---
+
+## Skills
+- **Programming:** Python (Pandas, PyTorch, NetworkX, Gurobi), MATLAB, SQL, R  
+- **Optimization:** Stochastic & large‑scale optimization, nonlinear programming
+
+---
+
+## Service & Leadership
+- Reviewer, *IEEE Transactions on Automatic Control* (TAC)  
+- Volunteer, **Data Cats** & **Women in Science and Engineering (WISE)** — Univ. of Arizona  
+- Member, **INFORMS** (since 2021)
