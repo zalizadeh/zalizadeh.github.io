@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -22,8 +22,7 @@ redirect_from:
 *Supervisor: Dr. Afrooz Jalilzadeh*  
 Exploring mathematical optimization for real‑world problems; advancing game‑theory strategies and machine‑learning algorithms.
 
-### Optimization Scientist — University of Arizona, *Fall 2024*  
-*Supervisor: Dr. Afrooz Jalilzadeh*  
+### Optimization Scientist — University of Arizona, *Fall 2024*   
 Developed systems‑engineering and optimization methods for trustworthy AI in safety‑critical defense settings.
 
 ---
