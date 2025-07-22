@@ -15,7 +15,7 @@ and I always enjoy turning complex math into practical solutions.
 ## Education
 - **Ph.D. Industrial Engineering**, University of Arizona — *expected 2026*  
 - **M.S. Industrial Engineering**, University of Arizona — *2023*  
-- **B.S. Applied Mathematics**, University of Tehran — *2016*
+- **B.S. Applied Mathematics**, University of Tehran — *2021*
 
 ---
 
