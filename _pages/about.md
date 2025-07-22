@@ -9,7 +9,7 @@ redirect_from:
 
 My research tackles real‑world problems in game theory and machine learning by developing
 provably convergent algorithms that stay practical at scale. I enjoy collaborating on challenging problems, whether in academia or industry,
-and I’m always keen to translate rigorous math into impactful solutions.
+and I always enjoy turning complex math into practical solutions.
 
 
 ## Education
